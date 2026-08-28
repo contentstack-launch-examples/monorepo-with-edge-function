@@ -13,7 +13,25 @@
     "eslint-config-custom": "*",
     "eslint": "7.32.0",
     "prettier": "^2.5.1",
-    "turbo": "latest"
+    "turbo": "latest",
+    "axios": "^0.33.0",
+    "immutable": "^4.3.9",
+    "linkify-it": "^5.0.2",
+    "liquidjs": "^10.29.0",
+    "postcss": "^8.5.26",
+    "markdown-it": "^14.1.2",
+    "send": "^0.19.0",
+    "serve-static": "^1.16.0"
   },
-  "packageManager": "npm@8.12.1"
+  "packageManager": "npm@8.12.1",
+  "overrides": {
+    "axios": "^0.33.0",
+    "immutable": "^4.3.9",
+    "linkify-it": "^5.0.2",
+    "liquidjs": "^10.29.0",
+    "postcss": "^8.5.26",
+    "markdown-it": "^14.1.2",
+    "send": "^0.19.0",
+    "serve-static": "^1.16.0"
+  }
 }
