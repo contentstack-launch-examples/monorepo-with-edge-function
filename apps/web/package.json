@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint pages --ext .js,.jsx,.ts,.tsx"
+    "lint": "eslint pages"
   },
   "dependencies": {
     "next": "^16.3.6",
